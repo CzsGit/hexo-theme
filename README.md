@@ -1,5 +1,5 @@
 
-这是我的[个人博客](www.ezlippi.com)采用的Hexo主题源码,Fork自[Next主题](https://github.com/iissnan/hexo-theme-next/issues),并根据个人爱好做了一些修改
+这是我的[个人博客](www.ezlippi.com)采用的Hexo主题源码,Fork自[Next主题](https://github.com/iissnan/hexo-theme-next/issues),并根据个人爱好做了一些修改，主要调整了正文内容的宽度、给博客添加了来比力评论插件。
 
 ## 如何使用主题
 
