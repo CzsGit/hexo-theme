@@ -6,18 +6,19 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "EZLippi"
+#keywords: "EZLippi"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: 
+rss: /atom.xml
 
 # Specify the date when the site was setup
-since: 2014
+since: 2017
 
 # icon between year and author @Footer
-authoricon: heart
+#authoricon: heart
+authoricon: italic
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -136,9 +137,9 @@ font:
 #social:
   #LinkLabel: Link
 social:
-  GitHub: https://github.com/EZLippi
-  weibo: http://weibo.com/ouyanglip
-  zhihu: http://www.zhihu.com/people/lippi-ouyang
+  GitHub: https://github.com/CzsGit
+  weibo: http://weibo.com/CzsPlace
+  #zhihu: http://www.zhihu.com/people/lippi-ouyang
   #Others:
 
 # Social Links Icons
@@ -151,9 +152,9 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
+  #Twitter: twitter
   weibo: weibo
-  zhihu: battery-3 
+  #zhihu: battery-3 
 
 
 # Sidebar Avatar
@@ -204,11 +205,8 @@ sidebar:
 links_title: 友情链接 
 # # links
 links:
-   Qisen Tang: http://www.woaitqs.cc/
-   szhshp的博客: http://szhshp.org
-   JuniorCoder: http://python.zhangwei.website
-   Hippo: http://hippo-jessy.com
-   友链出租: https://www.zhihu.com/people/lippi-ouyang    
+   百度: http://www.baidu.com/
+   ezlippi的博客: https://www.ezlippi.com/   
 link_icons:
   enable: true  
 # ---------------------------------------------------------------
@@ -291,14 +289,11 @@ mathjax:
 #swiftype_key: fLM9qfxyerC6njvM7usy
 
 # Baidu Analytics ID
-baidu_analytics: 340874ba9357cbe81570aa4ac1185941
 
-# Duoshuo ShortName
-#duoshuo_shortname:
-#duoshuo_shortname: ezlippi 
-#Disqus
-#disqus_shortname: lippi
-livere_uid: MTAyMC8zMjI4My84ODQ3
+baidu_analytics: ffeda343fa4cf809bf958447815cbf59
+
+#livere_uid: MTAyMC8zMjI4My84ODQ3
+livere_uid: MTAyMC8zMzc1OC8xMDMxMg==
 
 #Hypercomments
 #hypercomments_id:
@@ -372,9 +367,9 @@ facebook_comments_plugin:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: vRaNEPl87csjmiAMIrX8b2U8-gzGzoHsz
+  app_key: HQhn2RzFq1yTIlFi8McrlK0O
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -414,7 +409,7 @@ calendar:
   orderBy: startTime
   offsetMax: 24
   offsetMin: 4
-  timeZone:
+  timeZone: Asia/Shanghai
   showDeleted: false
   singleEvents: true
   maxResults: 250
@@ -443,7 +438,7 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: false
+#canvas_nest: true
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
@@ -494,7 +489,7 @@ vendors:
 
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
-  canvas_nest:
+  canvas_nest: ture
 
 
 
