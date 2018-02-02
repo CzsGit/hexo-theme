@@ -344,7 +344,9 @@ livere_uid: MTAyMC8zMzc1OC8xMDMxMg==
 #  user_id: 0
   #admin_nickname: Author
 
-
+# Online contact 
+daovoice: true
+daovoice_app_id: 5cf6eee3
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
