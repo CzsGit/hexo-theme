@@ -17,7 +17,8 @@
   {{ __('footer.theme') }} -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next" rel="external nofollow">
     NexT.{{ theme.scheme }}
-  </a>  |  Hosted by <a href="https://github.com/" style="font-weight: bold">GitHub</a>
+  </a>  |  Hosted and themes by <a href="https://github.com/" style="font-weight: bold">GitHub</a>
+   |  Code trusteeship <a href="https://code.aliyun.com/" style="font-weight: bold">Aliyun</a>
 </div>
 {% endif %}
 
