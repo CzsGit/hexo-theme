@@ -205,8 +205,10 @@ sidebar:
 links_title: 友情链接 
 # # links
 links:
-   百度: http://www.baidu.com/
-   ezlippi的博客: https://www.ezlippi.com/   
+   博客园: http://www.cnblogs.com
+   印象笔记: https://app.yinxiang.com
+   慕课网: https://www.imooc.com
+   Test404: http://www.test404.com
 link_icons:
   enable: true  
 # ---------------------------------------------------------------
